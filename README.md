@@ -1,126 +1,186 @@
-# 👋 Hi, I'm Rishi R.
+<div align="center">
 
-### B.Tech Information Technology Student • AI & Backend Developer • Cybersecurity Enthusiast
+# RISHI R.
 
-I’m an Information Technology student focused on building **practical, secure, and intelligent software systems**.
+### AI • Backend • Security
 
-My current interests sit at the intersection of **AI Engineering, Backend Development, System Design, and Cybersecurity**. I enjoy turning real-world problems into working software and continuously improving my engineering fundamentals.
+**Building intelligent systems. Engineering reliable backends. Securing AI.**
 
----
+<p>
+  <a href="https://github.com/Rishi-git-sys"><img src="https://img.shields.io/badge/GitHub-Rishi--git--sys-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rishi-git-sys&style=flat-square&color=grey" alt="Profile views" />
+</p>
 
-## 🚀 What I'm Building
-
-### 🛡️ NEXUS — AI Security Control Platform
-
-An enterprise-oriented security governance platform for **Non-Human Identities (NHIs) and Autonomous AI Agents**.
-
-- Identity and AI-agent inventory
-- Risk assessment and security posture
-- Policy-based access decisions
-- Access relationships and resource visibility
-- Security alerts and audit trails
-- Secure backend APIs and database integration
-
-**Stack:** Next.js • TypeScript • Tailwind CSS • Python • FastAPI • PostgreSQL • Supabase
-
-👉 [View NEXUS](https://github.com/Rishi-git-sys/NEXUS-Non-Human-Identity-Autonomous-AI-Security-Control)
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 👨‍💻 About Me
+
+I'm a **B.Tech Information Technology student** interested in the engineering problems behind modern software systems — from backend APIs and databases to AI agents and security controls.
+
+I learn by building. My goal is not simply to use technologies, but to understand **how systems work, how they fail, and how to make them more reliable and secure**.
+
+### Current focus
+
+- 🤖 **AI Engineering** — intelligent applications and agentic systems
+- ⚙️ **Backend Engineering** — APIs, services, databases and architecture
+- 🛡️ **AI & Application Security** — identity, access, risk and policy enforcement
+- 🧠 **Computer Science Foundations** — DSA, OS, networking and system design
+
+---
+
+## 🛡️ Flagship Project
+
+<a href="https://github.com/Rishi-git-sys/NEXUS-Non-Human-Identity-Autonomous-AI-Security-Control">
+
+# NEXUS
+
+</a>
+
+### Non-Human Identity & Autonomous AI Security Control Platform
+
+NEXUS explores a security control plane for the growing population of **machine identities and autonomous AI agents**.
+
+Instead of treating an AI agent as just another application, NEXUS asks four security questions:
+
+```text
+WHO is acting?
+WHAT can it access?
+WHAT is it actually doing?
+SHOULD that action be allowed?
+```
+
+### Core capabilities
+
+| Capability | Purpose |
+|---|---|
+| 🔎 Identity Discovery | Inventory non-human identities and AI agents |
+| 📊 Risk Engine | Evaluate privilege and security exposure |
+| 🔐 Policy Engine | Decide ALLOW / BLOCK / REVIEW / ALERT |
+| 🕸️ Access Graph | Understand identity → agent → resource relationships |
+| 🚨 Alerting | Surface high-risk and blocked activity |
+| 📜 Audit | Maintain traceable security decisions |
+
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Python` `FastAPI` `PostgreSQL` `Supabase`
+
+**Security principles:** `Zero Trust` • `Least Privilege` • `Secure by Default` • `Auditability`
+
+[→ Explore NEXUS](https://github.com/Rishi-git-sys/NEXUS-Non-Human-Identity-Autonomous-AI-Security-Control)
+
+---
+
+## 🧰 Engineering Toolkit
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+`Python` `Java` `C` `JavaScript` `TypeScript` `SQL`
 
-### Web & Backend
+### Application Engineering
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+`React` `Next.js` `Tailwind CSS` `FastAPI` `Flask` `Node.js` `REST APIs`
 
-### Data, Cloud & Tools
+### Data & Infrastructure
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+`PostgreSQL` `Supabase` `Git` `GitHub` `Docker`
+
+### AI / Security
+
+`Scikit-learn` `LLM APIs` `Risk Scoring` `Policy Enforcement` `Anomaly Detection` `API Security`
+
+> I treat the technologies above as an evolving toolkit — depth and practical implementation matter more to me than collecting badges.
 
 ---
 
-## 🤖 AI & Security Interests
-
-- AI Engineering and LLM-powered applications
-- Autonomous AI agent security
-- Non-Human Identity Security
-- Risk scoring and policy enforcement
-- API and backend security
-- Threat detection and anomaly detection
-- Zero Trust and least-privilege architecture
-
----
-
-## 📚 Currently Learning
+## 🧠 What I'm Learning
 
 ```text
-Data Structures & Algorithms
-        ↓
-Backend Engineering
-        ↓
-System Design
-        ↓
-Cloud & Infrastructure
-        ↓
-AI Engineering
-        ↓
-AI Security
+┌───────────────────────────────┐
+│ Computer Science Foundations  │
+│ DSA • OS • Networks • DBMS    │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│ Backend & System Engineering  │
+│ APIs • Architecture • SQL     │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│ Cloud & Infrastructure        │
+│ Linux • Docker • CI/CD        │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│ AI Engineering                │
+│ ML • LLMs • AI Agents         │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│ AI Security                   │
+│ Identity • Policy • Risk      │
+└───────────────────────────────┘
 ```
 
-I’m strengthening my foundations in **DSA, Operating Systems, Computer Networks, Databases, System Design, Cloud, DevOps, AI Engineering, and Cybersecurity**.
+---
+
+## 🔬 Areas I'm Exploring
+
+**AI Systems**
+
+Building applications where models and agents interact with real software systems.
+
+**Backend & Distributed Systems**
+
+Learning how APIs, databases, services and infrastructure fit together into dependable systems.
+
+**Cybersecurity**
+
+Understanding identity, authorization, least privilege, attack surfaces and security-by-design.
+
+**AI Security**
+
+Exploring the security challenges introduced by autonomous agents, tool access and machine identities.
 
 ---
 
-## 🎯 2026 Goals
+## 📊 GitHub Activity
 
-- Build production-quality software projects
-- Strengthen backend and system-design skills
-- Build practical AI-powered applications
-- Develop strong cybersecurity fundamentals
-- Contribute to open source
-- Participate in meaningful hackathons
-- Prepare for software engineering opportunities
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishi-git-sys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rishi's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-git-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Rishi's top languages" />
 
-## 📊 GitHub
-
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishi-git-sys&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-git-sys&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
-## 💡 Engineering Philosophy
+## 🎯 2026 — Build With Depth
 
-> **Build things. Understand how they work. Secure them. Keep improving.**
-
-I’m especially interested in projects where **software engineering, AI, and security meet**.
-
----
-
-## 🤝 Let's Connect
-
-If you're interested in **AI, backend engineering, cybersecurity, open source, or hackathons**, feel free to explore my repositories and connect with me.
+- Strengthen **DSA and core CS fundamentals**
+- Become stronger in **backend and system design**
+- Build and deploy **real AI-powered systems**
+- Deepen **cybersecurity and AI-security knowledge**
+- Contribute to **open source**
+- Build projects that solve **real engineering problems**
 
 ---
 
-⭐ *Always learning. Always building.*
+## 💭 Engineering Principle
+
+> **Don't just build features. Understand the system behind them.**
+>
+> Build → Measure → Secure → Learn → Improve.
+
+---
+
+## 🤝 Open to
+
+**Collaboration • Open Source • AI Projects • Backend Engineering • Cybersecurity • Hackathons**
+
+If you're building something interesting in these areas, I'd be happy to connect.
+
+<div align="center">
+
+### `Always learning. Always building.`
+
+</div>
