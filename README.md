@@ -27,16 +27,6 @@ An enterprise-oriented security governance platform for **Non-Human Identities (
 
 ---
 
-### 📈 TradeMind 2.0
-
-An AI-assisted market application exploring **stock analysis, market data, charts, and intelligent trading insights**.
-
-**Stack:** Next.js • TypeScript • React • APIs • SQL
-
-👉 [View TradeMind 2.0](https://github.com/Rishi-git-sys/TradeMind2.0)
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages
