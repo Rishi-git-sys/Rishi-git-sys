@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/Rishi-git-sys"><img src="https://img.shields.io/badge/GitHub-Rishi--git--sys-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Rishi-git-sys&style=flat-square&color=grey" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/rishi-r-158b2a39b/"><img src="https://img.shields.io/badge/LinkedIn-Rishi_R.-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 </div>
@@ -62,7 +62,7 @@ SHOULD that action be allowed?
 | 🚨 Alerting | Surface high-risk and blocked activity |
 | 📜 Audit | Maintain traceable security decisions |
 
-**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Python` `FastAPI` `PostgreSQL` `Supabase`
+**NEXUS Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
 
 **Security principles:** `Zero Trust` • `Least Privilege` • `Secure by Default` • `Auditability`
 
@@ -152,6 +152,8 @@ Exploring the security challenges introduced by autonomous agents, tool access a
 
 </div>
 
+*Stats are provided by an external service and may occasionally be unavailable.*
+
 ---
 
 ## 🎯 2026 — Build With Depth
@@ -161,6 +163,7 @@ Exploring the security challenges introduced by autonomous agents, tool access a
 - Build and deploy **real AI-powered systems**
 - Deepen **cybersecurity and AI-security knowledge**
 - Contribute to **open source**
+- Pursue **software engineering internships**
 - Build projects that solve **real engineering problems**
 
 ---
@@ -175,9 +178,23 @@ Exploring the security challenges introduced by autonomous agents, tool access a
 
 ## 🤝 Open to
 
-**Collaboration • Open Source • AI Projects • Backend Engineering • Cybersecurity • Hackathons**
+**Internships • Collaboration • Open Source • AI Projects • Backend Engineering • Cybersecurity • Hackathons**
 
 If you're building something interesting in these areas, I'd be happy to connect.
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+**LinkedIn:** [linkedin.com/in/rishi-r-158b2a39b](https://www.linkedin.com/in/rishi-r-158b2a39b/)
+
+**Email:** [iscrishi008@gmail.com](mailto:iscrishi008@gmail.com)
+
+</div>
+
+---
 
 <div align="center">
 
